@@ -20,6 +20,7 @@ const connection = new Connection(config);
 // Attempt to connect and execute queries if connection goes through
 connection.on("connect", (err:any) => {
     if (err) {
+        console.error('Please use your own Database')
         console.error(err.message);
     } else {
 
