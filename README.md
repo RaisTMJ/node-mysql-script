@@ -7,6 +7,14 @@
 Change database configuration to link to your own database,
 
 Run npm run start to see it connect
+# instruction 
+1) replace address-ph.json to real data.
+2) run tsc in root folder or any folder that consist tscconfig.json
+3) in src folder terminal execute node $fileName.js.
+
+file created at default.json
+
+
 
 
 

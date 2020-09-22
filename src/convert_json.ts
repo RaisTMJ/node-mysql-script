@@ -11,7 +11,7 @@ function main() {
     let finalJsonLocation: any = {}
     const data: Ilocation[] = require("./address-ph.json");
 
-    function addCityAndBRgs(location) {
+    function addCityAndBRgs(location:any) {
         if (!finalJsonLocation[location.PROVINCE][location.CITY]) {
             finalJsonLocation[location.PROVINCE][location.CITY] = []
             finalJsonLocation[location.PROVINCE][location.CITY] = [location.BRGY]
