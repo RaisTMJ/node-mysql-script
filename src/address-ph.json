@@ -1,0 +1,602 @@
+[
+  {
+    "BRGY": "TALUMPOK KANLURAN",
+    "CITY": "BATANGAS CITY",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "TALUMPOK SILANGAN",
+    "CITY": "BATANGAS CITY",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "TINGA ITAAS",
+    "CITY": "BATANGAS CITY",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "TINGA LABAK",
+    "CITY": "BATANGAS CITY",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "TULO",
+    "CITY": "BATANGAS CITY",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "WAWA",
+    "CITY": "BATANGAS CITY",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "ALAGAO",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "APLAYA",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "AS-IS",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "BAGONG SILANG",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "BAGUILAWA",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "BALAYONG",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "BARANGAY I (POB.)",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "BARANGAY II (POB.)",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "BARANGAY III (POB.)",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "BARANGAY IV (POB.)",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "BOLO",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "COLVO",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "CUPANG",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "DURUNGAO",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "GULIBAY",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "INICBULAN",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "LOCLOC",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "MAGALANG-GALANG",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "MALINDIG",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "MANALUPONG",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "MANGHINAO PROPER",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "MANGHINAO UNO",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "NEW DANGLAYAN",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "ORENSE",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "PITUGO",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "RIZAL",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "SAMPAGUITA",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "SAN AGUSTIN",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "SAN ANDRES PROPER",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "SAN ANDRES UNO",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "SAN DIEGO",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "SAN MIGUEL",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "SAN PABLO",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "SAN PEDRO",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "SAN ROQUE",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "SAN TEODORO",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "SAN VICENTE",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "SANTA MARIA",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "SANTO DOMINGO",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "SINALA",
+    "CITY": "BAUAN",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "BACLAS",
+    "CITY": "CALACA",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "BAGONG TUBIG",
+    "CITY": "CALACA",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "BALIMBING",
+    "CITY": "CALACA",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "BAMBANG",
+    "CITY": "CALACA",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "BARANGAY 1 (POB.)",
+    "CITY": "CALACA",
+    "PROVINCE": "BATANGAS"
+  },
+  {
+    "BRGY": "NARRA I",
+    "CITY": "SILANG",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "NARRA II",
+    "CITY": "SILANG",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "NARRA III",
+    "CITY": "SILANG",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "PALIGAWAN",
+    "CITY": "SILANG",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "PASONG LANGKA",
+    "CITY": "SILANG",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "POOC I",
+    "CITY": "SILANG",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "POOC II",
+    "CITY": "SILANG",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "PULONG BUNGA",
+    "CITY": "SILANG",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "PULONG SAGING",
+    "CITY": "SILANG",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "PUTING KAHOY",
+    "CITY": "SILANG",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "SABUTAN",
+    "CITY": "SILANG",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "SAN MIGUEL I",
+    "CITY": "SILANG",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "SAN MIGUEL II",
+    "CITY": "SILANG",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "SAN VICENTE I",
+    "CITY": "SILANG",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "SAN VICENTE II",
+    "CITY": "SILANG",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "SANTOL",
+    "CITY": "SILANG",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "TARTARIA",
+    "CITY": "SILANG",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "TIBIG",
+    "CITY": "SILANG",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "TOLEDO",
+    "CITY": "SILANG",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "TUBUAN I",
+    "CITY": "SILANG",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "TUBUAN II",
+    "CITY": "SILANG",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "TUBUAN III",
+    "CITY": "SILANG",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "ULAT",
+    "CITY": "SILANG",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "YAKAL",
+    "CITY": "SILANG",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "ASISAN",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "BAGONG TUBIG",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "CALABUSO (CALABUSO SOUTH & NORTH)",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "DAPDAP EAST",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "DAPDAP WEST",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "FRANCISCO (SAN FRANCISCO)",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "GUINHAWA NORTH",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "GUINHAWA SOUTH",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "IRUHIN EAST",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "IRUHIN SOUTH",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "IRUHIN WEST",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "KAYBAGAL EAST",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "KAYBAGAL NORTH",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "KAYBAGAL SOUTH (POB.)",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "MAG-ASAWANG ILAT",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "MAHARLIKA EAST",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "MAHARLIKA WEST",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "MAITIM 2ND CENTRAL",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "MAITIM 2ND EAST",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "MAITIM 2ND WEST",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "MENDEZ CROSSING EAST",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "MENDEZ CROSSING WEST",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "NEOGAN",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "PATUTONG MALAKI NORTH",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "PATUTONG MALAKI SOUTH",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "SAMBONG",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "SAN JOSE",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "SILANG JUNCTION NORTH",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "SILANG JUNCTION SOUTH",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "SUNGAY NORTH",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "SUNGAY SOUTH",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "TOLENTINO EAST",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "TOLENTINO WEST",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "ZAMBAL",
+    "CITY": "TAGAYTAY CITY",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "AMAYA I",
+    "CITY": "TANZA",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "AMAYA II",
+    "CITY": "TANZA",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "AMAYA III",
+    "CITY": "TANZA",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "AMAYA IV",
+    "CITY": "TANZA",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "AMAYA V",
+    "CITY": "TANZA",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "AMAYA VI",
+    "CITY": "TANZA",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "AMAYA VII",
+    "CITY": "TANZA",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "BAGTAS",
+    "CITY": "TANZA",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "BARANGAY I (POB.)",
+    "CITY": "TANZA",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "BARANGAY II (POB.)",
+    "CITY": "TANZA",
+    "PROVINCE": "CAVITE"
+  },
+  {
+    "BRGY": "BARANGAY III (POB.)",
+    "CITY": "TANZA",
+    "PROVINCE": "CAVITE"
+  }
+]
