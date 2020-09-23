@@ -10,6 +10,10 @@ interface Ilocation {
 function main() {
     let finalJsonLocation: any = {}
     const data: Ilocation[] = require("./address-ph.json");
+    
+    console.log(`is your data has this row ${data.length}`);
+    console.log(`if no please check your conversion file is correct`);
+    
 
     function addCityAndBRgs(location:any) {
         if (!finalJsonLocation[location.PROVINCE][location.CITY]) {
