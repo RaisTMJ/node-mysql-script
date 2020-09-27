@@ -16,7 +16,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "tsc && node src/test-connection.js"
+    "start": "tsc && node src/test-connection.js",
+    "transform": "tsc && node src/convert_json.js"
   },
   "keywords": [],
   "author": "raisTmj",
