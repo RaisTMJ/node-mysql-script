@@ -1,5 +1,7 @@
 import {saveAsJson} from "./coverting-object";
+
 runApp();
+
 interface Ilocation {
     BRGY: string,
     CITY: string,
@@ -11,7 +13,7 @@ function main() {
     let finalJsonLocation: any = {}
     const data: Ilocation[] = require("./address-ph.json");
 
-    function addCityAndBRgs(location:any) {
+    function addCityAndBRgs(location: any) {
         if (!finalJsonLocation[location.PROVINCE][location.CITY]) {
             finalJsonLocation[location.PROVINCE][location.CITY] = []
             finalJsonLocation[location.PROVINCE][location.CITY] = [location.BRGY]
@@ -34,5 +36,14 @@ function main() {
 function runApp() {
     const data = main();
     saveAsJson(data).then();
+
+
 }
+
+function currencyValuetoCurrencyFormat(value: string): string {
+    return value.replace(/[^g\d\.]/g, '')
+}
+
+
+
 
